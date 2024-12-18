@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>RPG</item>
+        <item>Инди</item>
+        <item>Головоломки</item>
+        <item>Симуляторы</item>
+        <item>Стратегии</item>
+        <item>Гонки</item>
+        <item>Шутеры</item>
+        <item>Ритм-игры</item>
+        <item>Казуальные</item>
+        <item>Аркады</item>
+        <item>Файтинги</item>
+        <item>Платформеры</item>
+        <item>Настольные игры</item>
+    </string-array>
+    <string-array name="Action">
+        <item>Half-Life 2|half_life.png|half_life.html</item>
+        <item>Mafia II|mafia.png|mafia.html</item>
+    </string-array>
+
+    <string-array name="Adventure">
+        <item>Ace Attorney|ace_attorney.png|ace_attorney.html</item>
+        <item>Fran Bow|fran_bow.png|fran_bow.html</item>
+    </string-array>
+
+    <string-array name="RPG">
+        <item>Baldur’s Gate 3|baldurs_gate.png|baldurs_gate.html</item>
+        <item>The Elder Scrolls V: Skyrim|skyrim.png|skyrim.html</item>
+    </string-array>
+
+    <string-array name="Indie">
+        <item>Five Nights at Freddy’s|five_nights_at_freddys.png|five_nights_at_freddys.html</item>
+        <item>Undertale|undertale.png|undertale.html</item>
+    </string-array>
+
+    <string-array name="Puzzle">
+        <item>Portal|portal.png|portal.html</item>
+        <item>World of Goo|world_of_goo.png|world_of_goo.html</item>
+    </string-array>
+
+    <string-array name="Simulation">
+        <item>The Sims|the_sims.png|the_sims.html</item>
+        <item>SnowRunner|snow_runner.png|snow_runner.html</item>
+    </string-array>
+
+    <string-array name="Strategy">
+        <item>StarCraft|starcraft.png|starcraft.html</item>
+        <item>X-COM|x_com.png|x_com.html</item>
+    </string-array>
+
+    <string-array name="Racing">
+        <item>Forza Horizon 5|forza_horizon_5.png|forza_horizon_5.html</item>
+        <item>Mario Kart|mario_kart.png|mario_kart.html</item>
+    </string-array>
+
+    <string-array name="Shooter">
+        <item>Counter-Strike: Global Offensive|counter_strike.png|counter_strike.html</item>
+        <item>Atomic Heart|atomic_heart.png|atomic_heart.html</item>
+    </string-array>
+
+    <string-array name="Rhythm">
+        <item>Hatsune Miku: Colorful Stage!|hatsune_miku_colorful_stage.png|hatsune_miku_colorful_stage.html</item>
+        <item>Beat Saber|beat_saber.png|beat_saber.html</item>
+    </string-array>
+
+    <string-array name="Casual">
+        <item>Homescapes|homescapes.png|homescapes.html</item>
+        <item>Royal Kingdom|royal_kingdom.png|royal_kingdom.html</item>
+    </string-array>
+
+    <string-array name="Arcade">
+        <item>Pac-Man|pac_man.png|pac_man.html</item>
+        <item>Doodle Jump|doodle_jump.png|doodle_jump.html</item>
+    </string-array>
+
+    <string-array name="Fighting">
+        <item>Mortal Kombat|mortal_kombat.png|mortal_kombat.html</item>
+        <item>Street Fighter 2|street_fighter.png|street_fighter.html</item>
+    </string-array>
+
+    <string-array name="Platformer">
+        <item>Cuphead|cuphead.png|cuphead.html</item>
+        <item>Celeste|celeste.png|celeste.html</item>
+    </string-array>
+
+    <string-array name="BoardGames">
+        <item>Монополия|monopoly.png|monopoly.html</item>
+        <item>Каркассон|carcassonne.png|carcassonne.html</item>
+    </string-array>
+    </resources>
